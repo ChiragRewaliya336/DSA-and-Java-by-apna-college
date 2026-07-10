@@ -35,5 +35,24 @@ public class intro {
 
         // size of arraylist:
         System.out.println(list.size());
+
+        // Multi-Dimensional list:
+        ArrayList<ArrayList<Integer>>mainList = new ArrayList<>();
+        ArrayList<Integer>list3 =new ArrayList<>();
+        list3.add(1); list3.add(2);
+        mainList.add(list3);
+
+        ArrayList<Integer>list2 =new ArrayList<>();
+        list2.add(1); list2.add(2);
+        mainList.add(list2);
+        System.out.println(mainList);
+        for(int i=0; i<mainList.size(); i++){
+            ArrayList<Integer>currlist= mainList.get(i);
+            for(int j=0; j<currlist.size(); j++){
+                System.out.print(currlist.get(j)+" ");
+            }
+            System.out.println();
+        }
+
     }
 }
