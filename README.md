@@ -15,7 +15,7 @@ This repository contains my complete journey of learning **Data Structures & Alg
 - ✅ 2D Arrays
 - ✅ ArrayList
 - ✅ Strings
-- ✅ HashMap / HashSet
+- ⏳ HashMap / HashSet
 - ⏳ Searching Algorithms
 - ⏳ Sorting Algorithms
 - ⏳ Recursion
