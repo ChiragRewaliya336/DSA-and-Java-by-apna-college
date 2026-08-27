@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "compareto",
+            "request": "launch",
+            "mainClass": "Strings.compareto",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Pallandrome",
+            "request": "launch",
+            "mainClass": "Strings.Pallandrome",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "CountVowels",
+            "request": "launch",
+            "mainClass": "Strings.CountVowels",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Stringbasics",
+            "request": "launch",
+            "mainClass": "Strings.Stringbasics",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "c02",
+            "request": "launch",
+            "mainClass": "Operators.c02",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
