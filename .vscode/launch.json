@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintAllSubstring",
+            "request": "launch",
+            "mainClass": "Strings.PrintAllSubstring",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "SubStringsOfString",
+            "request": "launch",
+            "mainClass": "Strings.SubStringsOfString",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "stringToCharArray",
+            "request": "launch",
+            "mainClass": "Strings.stringToCharArray",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "countDigits",
+            "request": "launch",
+            "mainClass": "Strings.countDigits",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "intToString",
+            "request": "launch",
+            "mainClass": "Strings.intToString",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "plus",
+            "request": "launch",
+            "mainClass": "Strings.plus",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "concat",
+            "request": "launch",
+            "mainClass": "Strings.concat",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "ChangeTheString",
+            "request": "launch",
+            "mainClass": "Strings.ChangeTheString",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
             "name": "compareto",
             "request": "launch",
             "mainClass": "Strings.compareto",
