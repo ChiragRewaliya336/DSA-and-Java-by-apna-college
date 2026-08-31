@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseSb",
+            "request": "launch",
+            "mainClass": "String_Builder.ReverseSb",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Set",
+            "request": "launch",
+            "mainClass": "String_Builder.Set",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Intro",
+            "request": "launch",
+            "mainClass": "String_Builder.Intro",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "StringImmutable",
+            "request": "launch",
+            "mainClass": "Strings.StringImmutable",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "SumOfAllInt",
+            "request": "launch",
+            "mainClass": "Strings.SumOfAllInt",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "matrix",
+            "request": "launch",
+            "mainClass": "matrix",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
             "name": "PrintAllSubstring",
             "request": "launch",
             "mainClass": "Strings.PrintAllSubstring",
