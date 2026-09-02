@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MostFrequentChar",
+            "request": "launch",
+            "mainClass": "String_Builder.MostFrequentChar",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "c10",
+            "request": "launch",
+            "mainClass": "Array.c10",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "String_Builder.Anagram",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
             "name": "ReverseSb",
             "request": "launch",
             "mainClass": "String_Builder.ReverseSb",
