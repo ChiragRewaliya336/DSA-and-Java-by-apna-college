@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MostFrequentCharacter",
+            "request": "launch",
+            "mainClass": "Hashing.Map.MostFrequentCharacter",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Iterate",
+            "request": "launch",
+            "mainClass": "Hashing.Map.Iterate",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Iterate",
+            "request": "launch",
+            "mainClass": "Hashing.Set.Iterate",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Query",
+            "request": "launch",
+            "mainClass": "Hashing.Entry.Query",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Intro",
+            "request": "launch",
+            "mainClass": "Hashing.Map.Intro",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Find_Distinct",
+            "request": "launch",
+            "mainClass": "Hashing.Set.Find_Distinct",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Tree_Set",
+            "request": "launch",
+            "mainClass": "Hashing.Set.Tree_Set",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "TreeSet",
+            "request": "launch",
+            "mainClass": "Hashing.Set.TreeSet",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Sets_Stl",
+            "request": "launch",
+            "mainClass": "Hashing.Set.Sets_Stl",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
             "name": "MostFrequentChar",
             "request": "launch",
             "mainClass": "String_Builder.MostFrequentChar",
